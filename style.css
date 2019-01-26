@@ -36,7 +36,7 @@ aside {
     margin: 5px 0 5px 5px;;
     float: right;
     width: 460px;
-    padding: 108px;
+    height: 247px;
     box-sizing: border-box;
 }
 footer {
@@ -45,7 +45,7 @@ footer {
     margin: 5px 0;
 }
 article {
-    padding: 5px;
+    padding: 10px;
 }
 .clearfix::after {
     content: "";
